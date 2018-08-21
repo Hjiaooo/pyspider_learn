@@ -37,17 +37,11 @@ python runoob2pdf.py
    如效果图。
 2. 输入保存的pdf文件名。
 
-### 效果图
-![image](./runoob2pdf.jpg)
-![image](./runoob2pdf_1.jpg)
-![image](./runoob2pdf_2.jpg)
-![image](./runoob2pdf_3.jpg)
+
 
 ### 特别说明
 感谢《Python 爬虫：把廖雪峰的教程转换成 PDF 电子书》的作者liuzhijun，本项目的代码都是基于他的代码改动后实现。
 
-### Contact me
->作者：jadentseng 
->微信： cheney2010  
+
 
 
